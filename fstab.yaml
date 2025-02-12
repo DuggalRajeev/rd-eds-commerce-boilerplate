@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/rajeevd_adobe_com/Documents/practice/eds/sample-content/rd-eds-commerce-boilerplate?csf=1&web=1&e=hAnZHq
 
 folders:
   /products/: /products/default
